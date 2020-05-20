@@ -1,8 +1,8 @@
 {
     "url": {
-        "data": "http:\/\/cdcb.judicial.gov.tw\/abbs\/wkw\/WHD6K03.jsp?ab=AAAdkxAAHAAAMDJAAD&bc=106&cd=%AA%6B%B5%6E%AA%C0++++++++++++++&de=000003&ef=SCD&fg=1",
-        "staff": "http:\/\/cdcb.judicial.gov.tw\/abbs\/wkw\/WHD6K04.jsp?ab=AAAdkxAAHAAAMDJAAD&bc=106&cd=%AA%6B%B5%6E%AA%C0++++++++++++++&de=000003&ef=SCD&fg=1",
-        "office": "http:\/\/cdcb.judicial.gov.tw\/abbs\/wkw\/WHD6K07.jsp?ab=AAAdkxAAHAAAMDJAAD&bc=106&cd=%AA%6B%B5%6E%AA%C0++++++++++++++&de=000003&ef=SCD&fg=1"
+        "data": "http://cdcb.judicial.gov.tw/abbs/wkw/WHD6K05.jsp?ab=AAAdkxAAHAAAMA3AAB&bc=109&cd=%AA%6B%B5%6E%A5%4C++++++++++++++&de=000096&ef=SCD&fg=1",
+        "staff": "http://cdcb.judicial.gov.tw/abbs/wkw/WHD6K05.jsp?ab=AAAdkxAAHAAAMA3AAB&bc=109&cd=%AA%6B%B5%6E%A5%4C++++++++++++++&de=000096&ef=SCD&fg=1",
+        "office": "http://cdcb.judicial.gov.tw/abbs/wkw/WHD6K05.jsp?ab=AAAdkxAAHAAAMA3AAB&bc=109&cd=%AA%6B%B5%6E%A5%4C++++++++++++++&de=000096&ef=SCD&fg=1"
     },
     "登記案號": "106年法登社字3號",
     "類別": "社團",
@@ -15,7 +15,7 @@
     "登記簿": "21冊82頁",
     "任期判定": "",
     "屆期判定": "",
-    "法人代表": "潘道仁",
+    "法人代表": "吳品蓁",
     "法人名稱": "社團法人台越經濟文化教育發展協會",
     "設立登記日期": "106\/02\/17",
     "主事務所": "新竹縣新豐鄉新興路1號",
@@ -25,7 +25,7 @@
     "存立時期": "永久",
     "財產總額": "1000",
     "結案原因": "准許",
-    "結案日期": "106\/02\/17",
+    "結案日期": "109\/04\/30",
     "歸檔日期": "",
     "發證日期": "",
     "送達代收人姓名": "",
@@ -39,23 +39,20 @@
     "董監事": [
         [
             "理事長",
-            "潘道仁"
-        ],
-        [
-            "副理事長",
-            "黃守文"
+            "吳品蓁"
+        
         ],
         [
             "常務理事",
-            "廖信德"
+            "蘇桂芳"
+        ],
+        [
+            "常務理事",
+            "許雅菁"
         ],
         [
             "理事",
-            "王柏盛"
-        ],
-        [
-            "理事",
-            "李運奎"
+            "許煌志"
         ],
         [
             "理事",
@@ -63,27 +60,31 @@
         ],
         [
             "理事",
-            "蔡定諺"
+            "陳羿妍"
         ],
         [
             "理事",
-            "蔡雅薰"
+            "李朝益"
         ],
         [
             "理事",
             "顧慕珮"
         ],
         [
-            "常務監事",
+            "理事",
             "詹煌勝"
+        ],    
+        [    
+            "常務監事",
+            "陳厚全"
         ],
         [
             "監事",
-            "沈元乱"
+            "沈元峯"
         ],
         [
             "監事",
-            "陳柔臻"
+            "王啓涼"
         ]
     ],
     "分事務所": [],
